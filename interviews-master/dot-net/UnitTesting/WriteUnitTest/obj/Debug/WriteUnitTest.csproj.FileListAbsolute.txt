@@ -1,0 +1,7 @@
+C:/Users/lyncha1/SourceCode/interviews/dot-net/UnitTesting/WriteUnitTest/bin/Debug/WriteUnitTest.exe.config
+/Users/seanmartin/Desktop/interviews-master/dot-net/UnitTesting/WriteUnitTest/obj/Debug/WriteUnitTest.csproj.CoreCompileInputs.cache
+/Users/seanmartin/Desktop/interviews-master/dot-net/UnitTesting/WriteUnitTest/bin/Debug/WriteUnitTest.exe.config
+/Users/seanmartin/Desktop/interviews-master/dot-net/UnitTesting/WriteUnitTest/bin/Debug/WriteUnitTest.exe
+/Users/seanmartin/Desktop/interviews-master/dot-net/UnitTesting/WriteUnitTest/bin/Debug/WriteUnitTest.pdb
+/Users/seanmartin/Desktop/interviews-master/dot-net/UnitTesting/WriteUnitTest/obj/Debug/WriteUnitTest.exe
+/Users/seanmartin/Desktop/interviews-master/dot-net/UnitTesting/WriteUnitTest/obj/Debug/WriteUnitTest.pdb

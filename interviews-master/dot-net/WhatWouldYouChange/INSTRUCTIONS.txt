@@ -1,0 +1,8 @@
+﻿Objective:
+	Review the ExampleProgram console application. Do not modify or refactor the code. Instead describe any changes 
+	you think should be made in the section below.Don't spend more than 30 minutes on this entire assignment. 
+        Feel free to describe why you made particular design decisions.
+
+
+Suggested Changes:     1. Fix typo in "ExampleTexttxt" to "ExampleText.txt"     2. Reference System.Text and use StringBuilder to build value in the exception for the "text" variable value because the string object is immutable.        Using the "text = text +" creates multiple objects in memory     3. Catch the IOException when the file is not found and set the "text" variable to the exception message as opposed to copying the expected text when an exception occurs.     4. Set the project to run on external console (may have been an IDE issue running community)     5. Wrap StreamReader in a "using" block to make sure it is disposed.  StreamReader implements IDisposable so you can do this.     6. The internal "text" variable is not necessary since "exampleText" property can be set     7. File name could be passed in as an argument or as a value in the configuration file to avoid compiling if it is variable.          
+	
